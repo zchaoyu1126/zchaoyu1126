@@ -3,13 +3,13 @@
 - 🌱 I’m currently learning **Golang、Beego**
 - 📫 How to reach me **zchaoyu1126@gmail.com**
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-114-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-236-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 58 Contributions in the Year 2021
+> 🏆 56 Contributions in the Year 2021
  > 
-> 📦 7.9 kB Used in GitHub's Storage 
+> 📦 8.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
