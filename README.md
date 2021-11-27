@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **Golang、Beego**
 - 📫 How to reach me **zchaoyu1126@gmail.com**
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-236-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-241-blue)
 
 **🐱 My GitHub Data** 
 
@@ -46,16 +46,18 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       2 mins              █████████████████████████   100.0% 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+gofiles                  2 mins              █████████████████████████   100.0% 
+pythonfiles              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 mins              █████████████████████████   100.0%
 
 ```
 
@@ -72,5 +74,5 @@ Go                       1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/ChaunceyYu0407/ChaunceyYu0407/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/11/2021
+ Last Updated on 27/11/2021
 <!--END_SECTION:waka-->
