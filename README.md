@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **Golang、Beego**
 - 📫 How to reach me **zchaoyu1126@gmail.com**
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -77,5 +77,5 @@ HTML                     1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/ChaunceyYu0407/ChaunceyYu0407/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/12/2021
+ Last Updated on 20/12/2021
 <!--END_SECTION:waka-->
