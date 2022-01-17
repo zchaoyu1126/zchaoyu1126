@@ -46,16 +46,16 @@ Sunday       3 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   38 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  38 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+python                   38 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  38 mins             █████████████████████████   100.0%
 
 ```
 
@@ -73,5 +73,5 @@ HTML                     1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/ChaunceyYu0407/ChaunceyYu0407/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/01/2022
+ Last Updated on 17/01/2022
 <!--END_SECTION:waka-->
