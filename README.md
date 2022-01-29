@@ -73,5 +73,5 @@ HTML                     1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/ChaunceyYu0407/ChaunceyYu0407/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/01/2022 18:43:35 UTC
+ Last Updated on 29/01/2022 18:50:08 UTC
 <!--END_SECTION:waka-->
