@@ -1,4 +1,5 @@
-- 👋 Hi, I'm ChaunceyYu
-- 👀 A graduate student and an amateur gopher from China
+- 👋 Hi, I'm Zhangchao Yu, an amateur gopher from China.
+- 👀 Educational Background: Master's degree in Computer Science in XDU
+- 🌟 Work Experience: BigData SRE(Site Reliability Engineer)
 - 🌱 I’m currently learning **Golang、Docker、K8S**
 - 📫 How to reach me **zchaoyu1126@qq.com**
